@@ -27,4 +27,4 @@
 
 ### other
 
-if you do `yarn lint` there is not linting errors
+If you do `yarn lint`, there are no linting errors
