@@ -1,4 +1,4 @@
-# Hedgehob-lab-react test
+# hedgehog-lab-react test
 
 ### Live URL
 - https://tranquil-strudel-479e4e.netlify.app/
@@ -25,4 +25,4 @@
 if you do `yarn lint` there are no linting errors. I use EsLint AirBnb rules.
 
 ### Tests
-I have a lot of commercial experience writing unit, integration, and end-to-end tests. But due to lack of time & juggling multiple interviews, I just didn't have the time to write any for this project.
+I have commercial experience writing unit, integration, and end-to-end tests. But due to lack of time & juggling multiple interviews, I just didn't have the time to write any for this project.
