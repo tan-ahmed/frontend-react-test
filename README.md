@@ -21,6 +21,10 @@
 - `yarn install`
 - `yarn dev`
 
+### Start backend
+- `npx @hedgehoglab/frontend-tech-test-server@latest`
+- `https://www.npmjs.com/package/@hedgehoglab/frontend-tech-test-server`
+
 ### Linting
 if you do `yarn lint` there are no linting errors. I use EsLint AirBnb rules.
 
