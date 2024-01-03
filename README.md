@@ -1,4 +1,4 @@
-# hedgehog-lab-react test
+# React Test
 
 ### Live URL
 - https://tranquil-strudel-479e4e.netlify.app/
@@ -17,9 +17,9 @@
 -   `VITE_API_BASE_URL="http://localhost:3002"`
 
 ### Run locally
-`cd frontend`
-`yarn install`
-`yarn dev`
+- `cd frontend`
+- `yarn install`
+- `yarn dev`
 
 ### Linting
 if you do `yarn lint` there are no linting errors. I use EsLint AirBnb rules.
